@@ -1,2 +1,6 @@
 hello Andrew
 Huy tebe Andrew
+
+string loh = "Artem";
+int age = 29;
+double growth = 1.83;
